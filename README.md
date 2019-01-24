@@ -1,5 +1,8 @@
 # timeTracker
-## Aplikacja webowa do ewidecji czasu pracy
+## EN: Timesheet Web app
+go to issues for more details https://github.com/kruzyk/timeTracker/issues
+
+## PL: Aplikacja webowa do ewidecji czasu pracy
 
 ### Funkcje:
 - dzień i godzina rozpoczęcia
@@ -30,4 +33,4 @@ _____________________
 
 ### ToDo:
 - przemyślenie struktury bazy danych
-- wybór technologii (React? / Firebase?)
+- wybór technologii (React, Firebase, etc)
