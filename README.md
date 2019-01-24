@@ -1,7 +1,7 @@
 # timeTracker
-##Aplikacja webowa do ewidecji czasu pracy
+## Aplikacja webowa do ewidecji czasu pracy
 
-###Funkcje:
+### Funkcje:
 - dzień i godzina rozpoczęcia
 - dzień i godzina zakończenia
 - wyliczenie ilości godzin dla zmiany
