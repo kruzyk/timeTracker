@@ -27,3 +27,7 @@ _____________________
 - wyliczanie wynagrodzenia z uwzględnieniem 80% za zwolnienie chorobowe
 - wyliczanie należnych i wykorzystanych dni urlopowych
 - suma dni zwolnienia lekarskiego (w miesiącu/roku/wybranym zakresie dat)
+
+### ToDo:
+- przemyślenie struktury bazy danych
+- wybór technologii (React? / Firebase?)
